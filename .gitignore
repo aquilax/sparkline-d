@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sparkline
+sparkline.so
+sparkline.dylib
+sparkline.dll
+libsparkline.a
+sparkline.lib
+sparkline-test-*
+*.exe
+*.o
+*.obj
+*.lst

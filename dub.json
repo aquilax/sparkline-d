@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"aquilax"
+	],
+	"copyright": "Copyright © 2022, aquilax",
+	"description": "Library for creating text sparklines",
+	"license": "MIT",
+	"name": "sparkline",
+	"targetType": "library"
+}
