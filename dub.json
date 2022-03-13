@@ -6,5 +6,8 @@
 	"description": "Library for creating text sparklines",
 	"license": "MIT",
 	"name": "sparkline",
-	"targetType": "library"
+	"targetType": "library",
+	"subPackages": [
+		"examples/cli"
+	]
 }

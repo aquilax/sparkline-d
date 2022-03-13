@@ -25,6 +25,7 @@ public string sparkline(const double[] numbers, wchar[] steps = [
         maxVal = max(maxVal, numbers[i]);
     }
     auto strBuilder = appender!string;
+    strBuilder.reserve(numbers.length);
     for (int i = 0; i < numbers.length; i++)
     {
         if (minVal == maxVal)

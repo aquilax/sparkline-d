@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"aquilax"
+	],
+	"copyright": "Copyright © 2022, aquilax",
+	"dependencies": {
+		"sparkline": "~>0.0.2"
+	},
+	"description": "Example sparkline cli app",
+	"license": "MIT",
+	"name": "sparkline-cli"
+}
