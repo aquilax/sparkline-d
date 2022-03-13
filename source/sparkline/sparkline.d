@@ -1,8 +1,7 @@
 module sparkline.sparkline;
 
 import std.algorithm : max, min;
-import std.math.rounding : floor;
-import std.array;
+import std.array : appender;
 
 /**
  * Generates sparkline string given arrray of numbers
